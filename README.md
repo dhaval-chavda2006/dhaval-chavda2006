@@ -9,7 +9,7 @@ Perfect is the enemy of <b>good enough for production</b>
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,postgres,aws,linux,githubactions,python,c,cpp&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,nodejs,express,postgres,aws,linux,githubactions,python,c,cpp&perline=7" />
 </p>
 
 <p align="center">
